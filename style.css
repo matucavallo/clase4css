@@ -1,0 +1,33 @@
+header {background-color: green;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    padding: 5px;
+
+}
+.titulos {
+    color: white;
+    background-color: black;
+    width: fit-content;
+}
+
+.tabla_horarios { border: red 5px solid ;
+    background-color: black;
+    color: white;
+}
+.dias {
+font-weight: bold;
+font-size: 22px;
+color: aqua;
+
+}
+
+.horarios {
+    font-style: italic;
+    color: aqua;
+}
+
